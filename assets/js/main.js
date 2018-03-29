@@ -10355,7 +10355,7 @@ $('.owl-carousel').owlCarousel({
     center: true,
     nav: true,
     dots: false,
-    navText: ["<img src='/iioo/assets/i/nav/back.svg'>", "<img src='/iioo/assets/i/nav/next.svg'>"],
+    navText: ["<img src='/assets/i/nav/back.svg'>", "<img src='/assets/i/nav/next.svg'>"],
     navClass: ['owl-prev', 'owl-next']
 })
 
